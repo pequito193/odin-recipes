@@ -1,1 +1,1 @@
-# odin-recipes
+Simple project regarding website design to improve HTML skills.
